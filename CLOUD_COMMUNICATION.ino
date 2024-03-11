@@ -7,11 +7,11 @@
 #include <math.h>
 
 /* WiFi credentials */
-#define WIFI_SSID "ORBI14"
-#define WIFI_PASSWORD "jollytable496"
+#define WIFI_SSID "LSC"
+#define WIFI_PASSWORD "96"
 
 /* API Key */
-#define API_KEY "AIzaSyBwk79rtnCTq7clLoxeH1mf0pZkdHbsIuQ"
+#define API_KEY "AIzaSyBwTq7clLoxeH1mf0pZkdHbsIuQ"
 
 /* RTDB URL */
 #define DATABASE_URL "https://healthapp-ec047-default-rtdb.firebaseio.com/"
