@@ -24,3 +24,4 @@ Programming
 C++ programming language to program ESP32 to connect to the Firebase NOSQL Realtime Database Application Programming Interface (API)
 SwiftIUI programming Language to develop IOS + WatchOS apps.
 Python to program Machine Learning Algorithm to predict Seizures using GetML API
+
